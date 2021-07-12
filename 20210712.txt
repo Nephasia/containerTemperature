@@ -199,4 +199,6 @@
 {'name': 'outside', 'temp': 32.687, 'time': '16:40:30'},
 {'name': 'inside', 'temp': 29.062, 'time': '16:40:30'},
 {'name': 'outside', 'temp': 32.875, 'time': '16:50:35'},
-{'name': 'inside', 'temp': 29.187, 'time': '16:50:35'}
+{'name': 'inside', 'temp': 29.187, 'time': '16:50:35'},
+{'name': 'outside', 'temp': 32.25, 'time': '17:00:41'},
+{'name': 'inside', 'temp': 29.187, 'time': '17:00:41'}

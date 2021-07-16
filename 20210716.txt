@@ -113,4 +113,6 @@
 >>>>>>> 400b83a69bc8a2f141ae4d9d3239b775acb998de
 ,
 {'name': 'outside', 'temp': 21.812, 'time': '09:15:01'},
-{'name': 'inside', 'temp': 24.875, 'time': '09:15:01'}
+{'name': 'inside', 'temp': 24.875, 'time': '09:15:01'},
+{'name': 'outside', 'temp': 21.812, 'time': '09:19:59'},
+{'name': 'inside', 'temp': 24.875, 'time': '09:19:59'}

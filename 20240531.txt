@@ -411,4 +411,7 @@
 {'name': 'inside_floor', 'temp': 19.312, 'time': '22:54:24'},
 {'name': 'outside', 'temp': 15.0, 'time': '23:04:29'},
 {'name': 'inside', 'temp': 22.125, 'time': '23:04:29'},
-{'name': 'inside_floor', 'temp': 19.375, 'time': '23:04:29'}
+{'name': 'inside_floor', 'temp': 19.375, 'time': '23:04:29'},
+{'name': 'outside', 'temp': 14.625, 'time': '23:14:34'},
+{'name': 'inside', 'temp': 22.062, 'time': '23:14:34'},
+{'name': 'inside_floor', 'temp': 19.375, 'time': '23:14:34'}

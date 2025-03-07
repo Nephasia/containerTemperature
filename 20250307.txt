@@ -83,4 +83,6 @@
 >>>>>>> f644e219b90ae00c6cd1b4510bbe9b86af7bb96d
 ,
 {'name': 'outside', 'temp': 9.812, 'time': '09:07:19'},
-{'name': 'inside', 'temp': 21.375, 'time': '09:07:19'}
+{'name': 'inside', 'temp': 21.375, 'time': '09:07:19'},
+{'name': 'outside', 'temp': 10.375, 'time': '09:17:21'},
+{'name': 'inside', 'temp': 21.375, 'time': '09:17:21'}

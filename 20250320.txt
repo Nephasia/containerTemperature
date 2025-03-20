@@ -179,4 +179,12 @@
 {'name': 'outside', 'temp': 3.25, 'time': '19:08:52'},
 {'name': 'inside', 'temp': 24.187, 'time': '19:08:52'},
 {'name': 'outside', 'temp': 3.062, 'time': '19:18:57'},
-{'name': 'inside', 'temp': 24.125, 'time': '19:18:57'}
+{'name': 'inside', 'temp': 24.125, 'time': '19:18:57'},
+{'name': 'outside', 'temp': 3.0, 'time': '19:29:02'},
+{'name': 'inside', 'temp': 24.187, 'time': '19:29:02'},
+{'name': 'outside', 'temp': 3.437, 'time': '19:39:04'},
+{'name': 'inside', 'temp': 24.25, 'time': '19:39:04'},
+{'name': 'outside', 'temp': 3.25, 'time': '19:49:06'},
+{'name': 'inside', 'temp': 24.25, 'time': '19:49:06'},
+{'name': 'outside', 'temp': 2.75, 'time': '19:59:08'},
+{'name': 'inside', 'temp': 24.25, 'time': '19:59:08'}

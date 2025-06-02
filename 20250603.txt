@@ -3,4 +3,6 @@
 {'name': 'outside', 'temp': 15.0, 'time': '00:14:59'},
 {'name': 'inside', 'temp': 21.875, 'time': '00:14:59'},
 {'name': 'outside', 'temp': 14.875, 'time': '00:25:03'},
-{'name': 'inside', 'temp': 21.875, 'time': '00:25:03'}
+{'name': 'inside', 'temp': 21.875, 'time': '00:25:03'},
+{'name': 'outside', 'temp': 14.75, 'time': '00:35:07'},
+{'name': 'inside', 'temp': 21.812, 'time': '00:35:07'}

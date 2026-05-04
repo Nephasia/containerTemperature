@@ -123,4 +123,6 @@
 {'name': 'outside', 'temp': 23.312, 'time': '10:12:39'},
 {'name': 'inside', 'temp': 21.562, 'time': '10:12:39'},
 {'name': 'outside', 'temp': 24.187, 'time': '10:22:41'},
-{'name': 'inside', 'temp': 21.812, 'time': '10:22:41'}
+{'name': 'inside', 'temp': 21.812, 'time': '10:22:41'},
+{'name': 'outside', 'temp': 24.062, 'time': '10:32:43'},
+{'name': 'inside', 'temp': 21.875, 'time': '10:32:43'}
